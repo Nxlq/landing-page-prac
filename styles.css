@@ -1,4 +1,4 @@
-.hero {
+.hero-container {
     background-color: #1f2937;
     color: #F9FAF8;
     padding: 10px 350px;
@@ -16,7 +16,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #8c8e91;
+    background-color: #1f2937;
     font-size: 18px;
 }
 
@@ -82,5 +82,13 @@ body {
 p {
     color: #E5E7EB;
     margin: 0;
+}
+
+.hero-image {
+   display: flex;
+   flex-shrink: 1;
+   height: 330px;
+   width: auto;
+   border-radius: 8px;
 }
 
