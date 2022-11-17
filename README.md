@@ -1,2 +1,2 @@
 # landing-page-prac
-A project creating a landing page to practice html/css
+A project creating a landing page to practice html/css positioning
